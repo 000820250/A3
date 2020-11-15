@@ -1,0 +1,7 @@
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\bin\Debug\A3.exe.config
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\bin\Debug\A3.exe
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\bin\Debug\A3.pdb
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\obj\Debug\A3.csprojAssemblyReference.cache
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\obj\Debug\A3.csproj.CoreCompileInputs.cache
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\obj\Debug\A3.exe
+E:\Mohawk\Mohawk Sem 3\Software Quality and Testing\a3\A3\A3\obj\Debug\A3.pdb
